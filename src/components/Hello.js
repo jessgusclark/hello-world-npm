@@ -8,6 +8,6 @@ const Hello = () =>{
             <p>Update 3</p>
         </div>
     );
-};
+} 
 
 export default Hello;
