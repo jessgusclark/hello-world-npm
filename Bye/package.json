@@ -1,0 +1,5 @@
+{
+    "name": "jesse-hello-world/Bye",
+    "private": true,
+    "main": "../dist/Bye.js"
+}
