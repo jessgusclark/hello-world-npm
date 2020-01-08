@@ -4,7 +4,8 @@ import './Hello.css';
 const Hello = () =>{
     return(
         <div className="hello">
-            Hello World, NPM!
+            <p>Hello World, NPM!</p>
+            <p>Update 2</p>
         </div>
     );
 };
