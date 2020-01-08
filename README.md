@@ -2,6 +2,25 @@
 
 An NPM package that creates a Hello World React Component.
 
+## Use
+
+install the NPM  package:
+
+```
+npm i jesse-hello-world-npm
+```
+
+Then to use in an Application:
+
+```
+import Hello from 'jesse-hello-world-npm/Hello';
+import Bye from 'jesse-hello-world-npm/Bye';
+
+...
+
+<Hello />
+<Bye name="Jesse" />
+```
 
 ## Notes/References/etc
 
