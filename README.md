@@ -1,6 +1,6 @@
 # Hello World NPM!
 
-An NPM package that creates a Hello World React Component.
+An NPM package that creates a Hello World React Component!!
 
 ## Use
 
